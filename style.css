@@ -508,7 +508,7 @@ footer span {
   font-size: 0.9rem;
 }
 
-@media screen and (min-width: 360px) and (max-width: 400px) {
+@media screen and (min-width: 360px) and (max-width: 900px) {
   .container {
     margin: 0 2rem;
   }
